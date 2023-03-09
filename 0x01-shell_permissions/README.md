@@ -6,3 +6,4 @@
 5-execute: this script add the execute right to the owner of file
 6-multiple_permissions: this script add multiple permissions
 7-everybody: this script add execute permissions to everyone
+8-James_Bond: this scriptgive all permissions to others only

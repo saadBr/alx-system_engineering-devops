@@ -8,3 +8,4 @@
 7-everybody: this script add execute permissions to everyone
 8-James_Bond: this scriptgive all permissions to others only
 9-John_Doe: this script gives all permissions to user , read and exexecute permissions to groups and write and execute permissions to others
+10-mirror_permissions: this script sets permission of a file to match the givven file permissions

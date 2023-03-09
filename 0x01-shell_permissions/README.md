@@ -13,3 +13,4 @@
 12-directory_permissions: this script creates a directory with customs permissions
 13-change_group: this script changes the group owner to school for the file hello
 100-change_owner_and_group: this script changes the owner and group owner of all files and directories
+101-symbolic_link_permissions: this script changes the owner and group owner of a symlink

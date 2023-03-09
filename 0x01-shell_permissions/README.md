@@ -11,3 +11,4 @@
 10-mirror_permissions: this script sets permission of a file to match the givven file permissions
 11-directories_permissions: this script sets execute permissions to subdir for everyone
 12-directory_permissions: this script creates a directory with customs permissions
+13-change_group: this script changes the group owner to school for the file hello

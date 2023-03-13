@@ -22,3 +22,4 @@
 19-AZ:this script Replace all characters A and c from input to Z and e respectively..
 20-hiago:this script Remove C and C from input , so i am living in hiago.
 22-reverse:this script reverse its input.
+22-users_and_homes:displays all users and their home directories, sorted by users..

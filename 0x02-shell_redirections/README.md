@@ -10,3 +10,4 @@
 7-file : this script creates a file with special character.
 8-cwd_state : this script prints the result of ls -la into a file
 9-duplicate_last_line : this script duplicates the last line of iacta
+10-no_more_js:this script delete js file in the current directory and the sub directory

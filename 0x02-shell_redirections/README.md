@@ -13,3 +13,4 @@
 10-no_more_js:this script delete js file in the current directory and the sub directory
 11-directories:this script counts the number of directories and sub-directories in the current directory.
 12-newest_files:this script displays the 10 newest files in the current directory..
+13-unique:this script takes a list of words as input and prints only words that appear exactly once.

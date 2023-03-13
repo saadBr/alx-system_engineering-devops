@@ -9,3 +9,4 @@
 6-third_line : this script displays the third line of file iacta.
 7-file : this script creates a file with special character.
 8-cwd_state : this script prints the result of ls -la into a file
+9-duplicate_last_line : this script duplicates the last line of iacta

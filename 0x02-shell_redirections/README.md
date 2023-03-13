@@ -7,3 +7,4 @@
 4-lastlines : this script displays the last 10 lines of /etc/passwd.
 5-firstlines : this script displays the first 10 lines of /etc/passwd.
 6-third_line : this script displays the third line of file iacta.
+7-file : this script creates a file with special character.

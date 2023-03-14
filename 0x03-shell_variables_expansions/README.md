@@ -10,3 +10,4 @@
 7-create_global_variable: create a global variable
 8-true_knowledge: adding 128 to a global variable
 9-divide_and_rule : Divide power by divide
+10-love_exponent_breath:displays the result of BREATH to the power LOVE

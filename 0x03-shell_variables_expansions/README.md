@@ -4,3 +4,4 @@
 1-hello_you:Saying hello to the current user
 2-path:Adding /action to PATH
 3-paths: counts the number of directories in the PATH.
+4-global_variables:lists environment variables.

@@ -2,3 +2,4 @@
 -----------------------------
 0-alias : This script create an alias.
 1-hello_you:Saying hello to the current user
+2-path:Adding /action to PATH
